@@ -1,0 +1,68 @@
+#-------------------------------
+# General Site Settings
+
+menu:
+- {name: 'Pages', url: 'pages/posts'}
+- {name: 'About', url: 'pages/about'}
+- {name: 'Contact', url: 'pages/contact'}
+
+#-------------------------------
+# SEO Section
+
+# NOTE: Providing SEO information will make this website more searchable on the internet.
+
+seo:
+  description: 'Class website for Purchase College course Programming for Visual Artists, fall 2024 '
+  rel-author: 'https://plus.google.com/u/0/#'
+  rel-publisher: 'https://plus.google.com/u/0/#'
+
+#-------------------------------
+# Google Analytics Section
+
+# Analytics helps you understand who visits your website.
+# Learn more at: http://support.google.com/analytics/answer/1008065
+
+# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
+
+# If you are not using Google Analytics, please change 'google-ID' to an empty string
+google-analytics-ua: ''
+
+#-------------------------------
+# Disqus Section
+
+# Change to true for Disqus comments
+disqus:
+  comments: false
+  disqus_shortname: 'namegoeshere'
+
+#-------------------------------
+# About Section
+
+about: >
+  # Programming For Visual Artists
+  
+  Programming for Visual Artists introduces code as a medium to create interactive visual art. Students explore the evolving history of new media and software art and are encouraged to push the edges of art into new and unknown territory. The course is taught with p5.js, a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else. We will study a diverse community of artists and approaches, and we will take an expansive view of how programming can be used as a tool to create new forms of art. Outside of class, students will have weekly readings, video tutorials, writing prompts and programming assignments. The goal is to be able to get to a level of proficiency where code becomes a tool for you to make art and to integrate into your total artistic practice.
+
+  Taught by [Lee Tusman](http://leetusman.com).
+
+contact: >
+  # Contact
+
+  You may contact Lee through [email](mailto:lee.tusmanATpurchase.edu) if you have any questions or would like to bring up any issues.
+
+#-------------------------------
+# Work Section
+
+projects:
+# To list project pages, uncomment the following lines and add these files!
+#- {name: 'Project One', folder: 'proj-1', file: 'projects/proj-1.html'}
+#- {name: 'Project Two', folder: 'proj-2', file: 'projects/proj-2.html'}
+#- {name: 'Project Three', folder: 'proj-3', file: 'projects/proj-3.html'}
+
+#-------------------------------
+# Contact Section
+
+social:
+#- {icon: 'twitter', link: '#'}
+
+# social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'

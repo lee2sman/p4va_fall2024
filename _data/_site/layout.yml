@@ -1,0 +1,12 @@
+# Layout settings
+
+animation: "bounceOut"
+
+# Colors
+
+accent: "red"
+borderColor: "green"
+textColor: "#000"
+headlineColor: "#000"
+bgcolor: "lightblue"
+documentBackgroundColor: "#fff"

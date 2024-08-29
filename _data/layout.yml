@@ -1,0 +1,12 @@
+# Layout settings
+
+animation: "bounceOut"
+
+# Colors
+
+accent: "#4f4745"
+borderColor: "#4f4745"
+textColor: "#4f4745"
+headlineColor: "#4f4745"
+bgcolor: "lightblue"
+documentBackgroundColor: "#fff"

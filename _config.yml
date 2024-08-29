@@ -1,0 +1,23 @@
+# Build settings
+
+markdown: kramdown
+permalink: none
+plugins:             [jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+permalink: /:title
+
+port: 4000
+
+sass:
+  sass_dir: assets/css
+  style: :nested
+
+# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
+
+title:		      "Programming for Visual Artists"
+description:	      "Course website for Programming for Visual Artists at Purchase College, fall 2024."
+author:              "Lee Tusman"
+
+
+baseurl: "/p4va_fall2024" # the subpath of your site, e.g. /blog
+url: "https://leetusman.com" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  lee2sman
