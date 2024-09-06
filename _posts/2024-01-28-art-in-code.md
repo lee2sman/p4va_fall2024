@@ -77,3 +77,27 @@ Zoe - Amedeo Modigliani - Portrait of Dr. Paul Alexandre
 <iframe src="https://editor.p5js.org/oatmealranger/full/-qtuC9d8v"></iframe>
 
 <br>
+
+Jack - Edward Munch - The Scream
+
+<iframe src="https://editor.p5js.org/jacrabbit/full/5CjTmMevy"></iframe>
+
+<br>
+
+Helena - Edward Munch - The Scream
+
+<iframe src="https://editor.p5js.org/helenac8/full/72bCRn-J2"></iframe>
+
+<br>
+
+Grace - Edouard Monet - Waterlilies
+
+<iframe src="https://editor.p5js.org/gracelynn/full/IioHbl6D8"></iframe>
+
+<br>
+
+Yahir - Van Gogh - Landscape
+
+<iframe src="https://editor.p5js.org/yahirtaf/full/83rFcBPcc"></iframe>
+
+<br>
