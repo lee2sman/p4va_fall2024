@@ -3,6 +3,8 @@ layout: page
 title: Differences and "Gotchas" between Javascript and Lua
 ---
 
+# Differences and "Gotchas" between Javascript and Lua
+
 This post was prepared for students who are taking my p5.js (Javascript library) and Pico-8/Love2d (Lua) courses simultaneously. This isn't comprehensive but instead a quick cheat sheet to help avoid common misundertandings or pitfalls when learning these two languages.
 
 ## Global and local variables
